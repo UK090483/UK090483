@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Konrad Ullrich, a web developer from Germany, based in Copenhagen.
+
+I am currently working as a freelance web developer. In this role, I am responsible for developing and maintaining web-based software solutions tailored to customer needs. My primary goal is to deliver a product that meets (exceeds) design expectations, user experience, and accessibility within the agreed time and budget.
+
+Although I received my formal education in telecommunications from Deutsche Telekom, I later pursued my passion for music through additional studies. As a professional musician, I've always been fascinated by the intersection of music and technology, and staying up-to-date with the latest advances has been essential to my success. My experience as a musician has also equipped me with valuable skills that are highly transferable to web development, such as a team-oriented mindset, discipline, responsibility, and creativity. These qualities have proven invaluable in delivering high-quality solutions that meet my clients' unique needs.
+
+In my personal life, I live in Vesterbro. I enjoy making music, trying new foods, and staying active with CrossFit, running, and hiking.
+
+
 <!--
 **UK090483/UK090483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
